@@ -1,0 +1,138 @@
+# Python
+
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+
+# Virtual Environment
+
+
+.venv/
+venv/
+env/
+ENV/
+
+
+# Jupyter Notebook
+
+
+.ipynb_checkpoints/
+
+
+# VS Code
+
+
+.vscode/
+
+
+# PyCharm
+
+
+.idea/
+
+
+# Streamlit
+
+
+.streamlit/secrets.toml
+
+
+# Environment Variables
+
+
+.env
+.env.*
+
+
+# Logs
+
+
+*.log
+logs/
+
+
+# Operating System Files
+
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# Build Files
+
+
+build/
+dist/
+*.egg-info/
+
+
+# Cache
+
+
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+
+# Temporary Files
+
+
+*.tmp
+*.temp
+
+
+# Model Checkpoints (Uncomment if needed)
+
+
+# checkpoints/
+# *.ckpt
+
+
+# Google Colab
+
+
+.content/
+
+# Large processed dataset
+data/processed_fake_job_postings.csv
+data/X_train.npz
+data/X_test.npz
+
+# Large Dataset Files (Optional)
+# Uncomment if datasets are too large for GitHub
+
+
+# dataset/*.csv
+# dataset/*.zip
+
+
+# Python Distribution
+
+
+pip-wheel-metadata/
+
+
+# Coverage Reports
+
+
+.coverage
+htmlcov/
+
+
+# SQLite
+
+
+*.sqlite3
+
+
+# Miscellaneous
+
+
+*.bak
+*.swp
+*.swo
