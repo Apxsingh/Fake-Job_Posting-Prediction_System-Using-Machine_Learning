@@ -419,7 +419,7 @@ Evaluation metrics:
 
 Based on the evaluation results, the selected model for deployment was:
 
-**✅ Logistic Regression with TF-IDF Vectorizer**
+**✅ Random Forest with TF-IDF Vectorizer**
 
 ### Why?
 
