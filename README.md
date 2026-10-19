@@ -478,8 +478,7 @@ git clone https://github.com/Apxsingh/Fake-Job_Posting-Prediction_System-Using-M
 ## 2. Navigate to the Project Folder
 
 ```bash
-cd Fake-Job-Posting-Detection
-```
+cd Fake-Job_Posting-Prediction_System-Using-Machine_Learning```
 
 ---
 
@@ -673,7 +672,7 @@ The project covers the entire machine learning lifecycle from data preprocessing
 
 Special thanks to:
 
-- My Internship Organization
+- 3Skill
 - Scikit-Learn Documentation
 - Streamlit Documentation
 - NLTK Documentation
@@ -722,19 +721,6 @@ Your support is greatly appreciated!
 
 ---
 
-# 🚀 Future Roadmap
-
-- [ ] Deep Learning (LSTM)
-- [ ] BERT Transformer Integration
-- [ ] Explainable AI (SHAP)
-- [ ] FastAPI REST API
-- [ ] Docker Support
-- [ ] Cloud Deployment
-- [ ] CI/CD Pipeline
-- [ ] Unit Testing
-- [ ] Model Monitoring
-
----
 
 # 📊 Repository Statistics
 
